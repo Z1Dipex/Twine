@@ -19,10 +19,10 @@ tw-story {
 </div>
 ```
 ```
-.passage {
+#.passage {
     position: relative;
 }
-
+#
 .text-box {
     background-color: rgba(0, 0, 0, 0.7);
     color: white;
